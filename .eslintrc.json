@@ -23,6 +23,7 @@
         "ignoreTemplateLiterals": true,
         "ignoreRegExpLiterals": true
       }
-    ]
+    ],
+    "react/prop-types": ["error", { "ignore": ["navigation"] }]
   }
 }
